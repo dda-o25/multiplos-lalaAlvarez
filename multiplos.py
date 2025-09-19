@@ -19,7 +19,7 @@ if numero1 % numero2 == 0:
 elif numero2 % numero1 == 0:
     multiplo = numero2
     numero = numero1
-
+    
 
 # Salidas
 print("El número " + str(multiplo) + " es múltiplo del " + str(numero))
