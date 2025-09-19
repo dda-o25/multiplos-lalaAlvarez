@@ -25,7 +25,7 @@ else:
         numero = numero1
         salida = "El número " + str(multiplo) + " es múltiplo del " + str(numero)
     else:
-        salida="Ninguno de los numeros es múltiplo del otro"    
+        salida="Ninguno de los números es múltiplo del otro"    
 
 
 # Salidas
