@@ -13,8 +13,8 @@ numero2 = int(input("Introduzca otro número: "))
 numero = 0
 multiplo = 0
 salida = ""
-if numero1 == 0 or numero2 == 0:
-    salida="Ninguno de los numeros es múltiplo del otro"    
+if numero1 == 0 and numero2 == 0:
+    salida="Ninguno de los números es múltiplo del otro"    
 else:
     if numero1 % numero2 == 0:
         multiplo = numero1
